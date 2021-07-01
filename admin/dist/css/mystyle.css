@@ -1,0 +1,263 @@
+.my-container
+{
+	padding: 7px 35px;
+}
+.my-border
+{
+	border-radius: 15px;
+	border: 1px solid grey;
+	margin-bottom: 5px;
+}
+.my-border2
+{
+    border-radius: 15px;
+	border: 1px solid grey;
+	width: 80%;
+	height: 40px;
+	margin: 5px 0px;
+    margin-left: 110px;	
+}
+.form-section .my-border2 p
+{
+	word-spacing: 0.5em;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+.form-section
+{
+	padding: 40px 0px;
+}
+.form-section .span-space label span
+{
+	margin-left: 10px;
+	font-weight: 500;
+}
+.form-section .mx-6
+{
+	margin-left: 80px;
+}
+.form-section .border-bottom
+{
+	width: 87%;
+	position: relative;
+	margin-left: 133px;
+}
+.form-section .border-bottom2
+{
+	width: 90%;
+	position: relative;
+	margin-left: 45px;
+}
+.form-section label
+{
+	margin: 10px 0px;
+}
+.form-section .box
+{
+  width: 90px;
+  height: 27px;
+  border: 1px solid grey;
+  margin-left: 15px;
+}
+.form-section .d-flex
+{
+	/* justify-content: center; */
+	align-items: center;
+}
+.form-section label
+{
+    text-transform: uppercase;
+    width: 170px;
+	word-spacing: 0.2em;
+}
+.form-section .d-flex label
+{
+	text-transform: uppercase;
+	width: 250px;
+	word-spacing: 0.2em;
+
+}
+.form-section .border-bottom3
+{
+	margin-left: 170px;
+}
+.form-section .text-border
+{
+	word-spacing: 0.3em;
+	font-weight: 500;
+}
+.form-section .box2
+{
+	width: 220px;
+	height: 32px;
+	border-radius: 15px;
+	border: 1px solid grey;
+}
+.form-section .text-h6 h6
+{
+	font-size: 14px;
+	font-weight: 500;
+}
+.form-section .pad-div h6
+{
+	font-size: 15px;
+	margin-top: 10px;
+}
+.form-section .pad-div i
+{
+	font-weight: 500;
+}
+
+
+
+/* Form section 2 starts */
+.form-section2 .my-container
+{
+	padding: 7px 15px;
+}
+.form-section2
+{
+	padding: 40px 0px;
+}
+.form-section2 .border-bottom
+{
+	width: 100%;
+	position: relative;
+	margin-left: 0px;
+}
+.form-section .bor-leftdiv .border-bottom
+{
+	width: 50%;
+	padding-left: 5px;
+	margin-left: 10px;
+}
+.form-section2 .box
+{
+	width: 90px;
+    height: 27px;
+    margin-top: 2px;
+    border: 1px solid grey;
+}
+
+
+.border-right {
+    border-right: 1px solid #000!important;
+}
+.form-section2 .my-border
+{
+	border-radius: 15px;
+	border: 1px solid grey;
+	padding: 5px;
+}
+..form-section2 .d-inline
+{
+	display: flex;
+}
+.form-section2 .box2
+{
+    width: 110px;
+	height: 26px;
+	border-radius: 15px;
+	border: 1px solid grey;	
+}
+.form-section2 .box3
+{
+    width: 150px;
+	height: 29px;
+	border-radius: 15px;
+	border: 1px solid grey;	
+	margin-left: 55px;
+}
+.form-section2 .d-center
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.form-section2 .fa-star
+{
+	font-size: 20px;
+}
+.form-section2 .fa-div .fa-star
+{
+	font-size: 15px;
+	margin-right: 15px;
+}
+
+.form-section2 .my-border3
+{
+	border-radius: 0px;
+	border: 1px solid grey;
+	padding: 5px;
+}
+
+.form-section2 .box4
+{
+	width: 50px;
+	height: 25px;
+	border: 1px solid grey;	
+	margin-left: 25px;
+	margin-top: 5px;
+}
+.form-section2 .span-width
+{
+	word-spacing: 0.3em;
+}
+.form-section2 .bor-left .border-bottom
+{
+	margin-left: 120px;
+	width: 60%;
+}
+.form-section2 .bor-left span
+{
+	word-spacing: 0.4em;
+}
+.form-section2 .span-text
+{
+	margin-left: 35px;
+}
+.form-section2 .per-head
+{
+	font-weight: 500;
+	word-spacing: 0.4em;
+	text-transform: capitalize;
+	background: #ccc;
+	width: 450px;
+	border-radius: 15px;
+}
+.form-section2 .span-textleft span
+{
+	word-spacing: 0.4em;
+}
+.form-section2 p
+{
+	word-spacing: 0.25em;
+}
+.form-section2 .bg-text
+{
+	background: #ccc;
+	border-radius: 15px;
+	margin-bottom: 2px;
+}
+
+.form-section2 .myh4-bg
+{
+	background: #ccc;
+	border-radius: 15px;
+	width: 175px;
+}
+.form-section2 .book-text
+{
+	width: 145px;
+	background: #ccc;
+	border-radius: 15px;
+}
+.form-section2 .box5
+{
+	width: 70%;
+	height: 35px;
+	border: 1px solid grey;	
+	margin-left: 25px;
+	margin-top: 5px;
+
+}
